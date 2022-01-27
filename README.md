@@ -18,4 +18,4 @@ Using a 3D chart to visualize the results of the K-means clustering
 ![3D-Chart](https://user-images.githubusercontent.com/83085800/150888904-15bb8b6e-bf09-4090-b111-335ff2e8e021.png)
 
 ## Summary
-We were able to successfully group each tradable currency into 4 different classes using K-means so the invewstment banks can wisely inform their customers.
+We were able to successfully group each tradable currency into 4 different classes using K-means so the investment banks can wisely inform their customers.
